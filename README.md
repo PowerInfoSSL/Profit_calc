@@ -5,5 +5,5 @@ By this script writed in python v3, you can put your mony value for investment i
  
  you can run it for example: 1m$ 4Month and 3%. ---> 1,4,3
  
- http://s4.picofile.com/file/8396547284/44.jpg
+![Boors](http://s4.picofile.com/file/8396547284/44.jpg)
  
